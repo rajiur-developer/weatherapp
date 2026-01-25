@@ -118,3 +118,19 @@
 .tempareture h3 {
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
+
+@media (max-width:500px) {
+    .container>.row {
+        width: 100% !important ;
+    }
+}
+@media (max-width:720px) {
+    .container>.row {
+        width: 90% !important;
+    }
+}
+@media (max-width:1000px) {
+    .container>.row {
+        width: 60% !important;
+    }
+}

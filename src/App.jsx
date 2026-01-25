@@ -69,7 +69,7 @@ const App = () => {
             <div className="shooting-star"></div>
 
             <div className="container main-container">
-                <div className="row w-50 mx-auto mt-5 rounded-3">
+                <div className="row w-50 col-sm-w-100 mx-auto mt-5 rounded-3">
                     <div className="col-12">
                         <div className="card bg-transparent border-0 ">
                             <div className="card-body ">
